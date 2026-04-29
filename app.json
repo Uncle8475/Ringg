@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Cosmic Attire",
+    "slug": "cosmic-attire",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "scheme": "cosmicattire",
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0D10"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "favicon": "./assets/images/logo.png"
+    },
+    "plugins": [
+      "expo-web-browser"
+    ]
+  }
+}
